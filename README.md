@@ -1,4 +1,4 @@
-#For Demo click here (https://thoma1998.github.io/wiki-search/)
+For Demo click here (https://thoma1998.github.io/wiki-search/)
 
 # Getting Started with Create React App
 
